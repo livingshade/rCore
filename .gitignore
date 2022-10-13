@@ -30,3 +30,7 @@ modules/*/objs
 # Rust
 modules/*/target
 test/
+
+riscv64-linux-musl-cross
+riscv64-linux-musl-cross/**
+riscv64-linux-musl-cross.tgz
